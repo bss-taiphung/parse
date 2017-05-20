@@ -12,5 +12,7 @@
         "psr-4": {
             "Parziphal\\Parse\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
