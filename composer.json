@@ -16,9 +16,9 @@
     "extra": {
 		"component": "package",
 		"branch-alias": {
-			"dev-master": "5.4.x-dev"
+			"dev-master": "0.0.x-dev"
 		}
-	},
+     },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
